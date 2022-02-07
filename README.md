@@ -1,4 +1,4 @@
-# Dynamic DNS Configured with DHCP for linux #
+# Dynamic DNS Configured with DHCP for RHEL based linux #
 
 # Prequesites
     - install dhcpd
